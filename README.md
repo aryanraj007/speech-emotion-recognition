@@ -1,3 +1,14 @@
+---
+title: Speech Emotion Recognition
+emoji: 🎙️
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.19.2"
+app_file: app.py
+pinned: false
+---
+
 # 🎙️ Speech Emotion Recognition (SER)
 
 A complete end-to-end system that takes a raw `.wav` audio file as input and outputs the detected emotion (e.g., Happy, Sad, Angry, Fearful, Disgusted, Surprised, Neutral, Calm) along with confidence scores.
